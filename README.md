@@ -2,10 +2,11 @@
 	<h1>Hello world, I'm Abo</h1>
 	<h3>IT consultant from Kazakhstan</h3>
 </div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onetheabo&theme=github_dark"/>
-###
-<div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onetheabo&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onetheabo&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=onetheabo&theme=github_dark"/>
+<div id="socials" align="center">
+	<a href="[linkedin-url](https://www.linkedin.com/in/abylaykhan-abdreym-91760425a/)">
+		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
+	<a href="https://web.telegram.org/z/">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
 </div>
